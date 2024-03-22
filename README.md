@@ -13,7 +13,7 @@ interfere with normal interactions.
 
 1. Make sure you have a UserScript manager extension installed in your browser,
    such as Tampermonkey or Greasemonkey.
-2. Click [here](zalo-disable-alt-shortcut.user.js) to install the UserScript.
+2. Click [here](https://github.com/tnowad/zalo-disable-alt-shortcut/raw/master/zalo-disable-alt-shortcut.user.js) to install the UserScript.
 3. The UserScript should now be active whenever you visit the Zalo chat website.
 
 ## Usage
