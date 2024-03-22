@@ -1,0 +1,1 @@
+# zalo-disable-alt-shortcut
