@@ -30,3 +30,8 @@ improvements, please feel free to open an issue or submit a pull request.
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+
+If you find this script useful, please consider giving it a star. Your support
+is my motivation to continue improving this script and creating more useful tools.
